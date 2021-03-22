@@ -1,0 +1,12 @@
+boto3==1.17.33
+botocore==1.20.33
+jmespath==0.10.0
+playsound==1.2.2
+python-dateutil==2.8.1
+ruamel.yaml==0.16.13
+ruamel.yaml.clib==0.2.2
+s3transfer==0.3.6
+six==1.15.0
+urllib3==1.26.4
+vext==0.7.4
+vext.gi==0.7.4
